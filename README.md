@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on builder a object detection to make a smart bin<br>🤝 I’m looking for help with networking (feel free to reach out)<br>🌱 I’m currently learning C++ to code on Arduino for my project
+🔭 I’m currently working on building a object detection to make a smart bin<br>🌱 I’m currently learning C++ to code on Arduino for my project<br>🤝 I’m looking for help with networking or mentorship (feel free to reach out)
 
 
 ## 🌐 Socials:
