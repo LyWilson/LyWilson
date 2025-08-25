@@ -1,10 +1,5 @@
 # 👋 Hi, I’m Wilson Ly
 
-🎓 Future Software Engineer @ ÉTS  
-💡 Passionate about building **real-world tech solutions** with impact  
-
----
-
 ## 🚀 About Me
 - 🎓 Software engineering student at **ÉTS**  
 - 🌐 Experience in **Full Stack Development**, **AI**, and **IoT**  
